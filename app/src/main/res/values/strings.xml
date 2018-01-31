@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Team Drawer</string>
+    <string name="cd_add_team">add team</string>
+    <string name="err_invalid_team_name">Invalid team name</string>
+</resources>
